@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @HasanHafizurRahman
-- 👀 I’m a Web developer
-- ✨ I'm currently working with Mern stack Technology
-- ✨ I've completed several projects using Reactjs, React-Redux, Redux-Toolkit, NextJs, Typescript, ExpressJs, Mongodb
-- 🌱 I’m currently learning Postgresql
-- 💞️ I’m looking to have a opportunity to work with dev team
-- 📫 Contact to reach me : +8801776249691/ hasanshanto922@gmail.com
+Hasan Hafizur Rahman - Web Developer 👨‍💻
+Hello there! I'm Hasan Hafizur Rahman, a passionate web developer with expertise in MERN stack technology. I specialize in crafting dynamic and user-friendly web applications using cutting-edge technologies. Here's a bit about me:
 
-<!---
-HasanHafizurRahman/HasanHafizurRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently diving into the world of Postgresql.
+✨ Experienced in working with Reactjs, React-Redux, Redux-Toolkit, NextJs, ExpressJs, and MongoDB.
+💼 Actively seeking opportunities to collaborate with innovative development teams.
+📫 Reach out to me at: +8801776249691 / hasanshanto922@gmail.com
+
+I'm enthusiastic about collaborating on exciting projects and contributing to the tech community. If you have a project or just want to say hi, feel free to reach out! Let's create something amazing together.
+
+📧 Email: hasanshanto922@gmail.com
+
+📱 Phone: +8801776249691
+
+Let's code the future! 🚀
