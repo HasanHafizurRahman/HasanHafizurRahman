@@ -88,31 +88,34 @@
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="center" style="color:#F9F871;">⚡ GitHub Stats & Activity</h2>
+<!-- GitHub Stats & Activity Section -->
+<h2 align="center" style="color:#58A6FF;">⚡ GitHub Stats & Activity</h2>
 
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=hasanhafizurrahman&show_icons=true&theme=radical" 
-       width="450" 
-       alt="Hasan's GitHub stats"
-  />
+<!-- Container for cards -->
+<div align="center" style="display:flex; justify-content:space-around; align-items:center; flex-wrap:wrap; gap:20px;">
+
+  <!-- Custom GitHub Stats Card -->
+  <div style="background-color:#161B22; color:#58A6FF; padding:20px; border-radius:10px; width:45%;">
+    <h3>🌟 Hasan Hafizur Rahman's GitHub Stats</h3>
+    <p>🚀 Total Stars Earned: <strong>130</strong></p>
+    <p>🔥 Total Commits (2025): <strong>202</strong></p>
+    <p>📊 Total PRs: <strong>11</strong></p>
+    <p>🔍 Total Issues: <strong>0</strong></p>
+    <p>🤝 Contributed to last year: <strong>0</strong></p>
+  </div>
+
+  <!-- Custom Most Used Languages Card -->
+  <div style="background-color:#161B22; color:#58A6FF; padding:20px; border-radius:10px; width:45%;">
+    <h3>🛠 Most Used Languages</h3>
+    <p>TypeScript: <strong>46.58%</strong></p>
+    <p>JavaScript: <strong>38.39%</strong></p>
+    <p>HTML: <strong>10.45%</strong></p>
+    <p>CSS: <strong>8.51%</strong></p>
+  </div>
   
-  <!-- Top Languages Card -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhafizurrahman&layout=compact&theme=radical" 
-       width="350" 
-       alt="Top Languages"
-  />
-  
-  <!-- Activity Graph -->
-  <img 
-       src="https://github-readme-activity-graph.cyclic.app/graph?username=hasanhafizurrahman&theme=github" 
-       width="100%" 
-       alt="GitHub Activity Graph"
-  />
+  <!-- Add any other widgets or graphics here -->
 </div>
+
 
 ---
 
