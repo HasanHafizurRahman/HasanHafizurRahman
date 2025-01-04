@@ -88,35 +88,43 @@
 
 ---
 
-<!-- GitHub Stats & Activity Section -->
-<div align="center" style="color: #fff; background: #0D1117; padding: 20px; border-radius: 10px;">
-  <h2 style="color: #58A6FF;">My GitHub History!</h2>
+<div align="center">
+  <h2 style="color:#58A6FF;">🚀 My GitHub History!</h2>
 
-  <!-- Stats and Most Used Languages -->
-  <div style="display: flex; justify-content: space-around; align-items: center; padding: 20px;">
-    <!-- GitHub Stats -->
-    <div style="background: #161B22; padding: 20px; border-radius: 10px; color: #C9D1D9;">
-      <h3>Piyush Malhotra's GitHub Stats</h3>
-      <p>⭐ Total Stars Earned: <strong>13</strong></p>
-      <p>🔁 Total Commits (2025): <strong>133</strong></p>
-      <p>👥 Contributed to: <strong>16</strong></p>
-      <p>🏆 Total Issues: <strong>0</strong></p>
-      <p>📅 Contributed too: <strong>0</strong></p>
-    </div>
-
-    <!-- Most Used Languages -->
-    <div style="background: #161B22; padding: 20px; border-radius: 10px; color: #C9D1D9;">
-      <h3>Most Used Languages</h3>
-      <p>Python: <strong>45.2%</strong> <span style="background: #3572A5; padding: 2px 5px; border-radius: 5px;">▓▓▓▓▓</span></p>
-      <p>HTML: <strong>31.2%</strong> <span style="background: #E34F26; padding: 2px 5px; border-radius: 5px;">▓▓▓</span></p>
-      <p>JavaScript: <strong>17.0%</strong> <span style="background: #F1E05A; padding: 2px 5px; border-radius: 5px;">▓▓</span></p>
-      <p>CSS: <strong>6.6%</strong> <span style="background: #563D7C; padding: 2px 5px; border-radius: 5px;">▓</span></p>
-    </div>
+  <!-- Stats Box -->
+  <div style="background-color:#161B22; padding:20px; border-radius:10px; color:#C9D1D9; width:80%; margin-bottom:10px;">
+    <h3>Piyush Malhotra's GitHub Stats</h3>
+    <p>⭐ Total Stars Earned: <strong>13</strong></p>
+    <p>🔁 Total Commits (2025): <strong>133</strong></p>
+    <p>👥 Contributed to: <strong>16</strong></p>
+    <p>🏆 Total Issues: <strong>0</strong></p>
   </div>
 
-  <!-- Custom Activity Graph (This would need to be an image or SVG) -->
-  <img src="your-activity-graph-url" alt="GitHub Activity Graph" style="max-width: 100%; border-radius: 10px;"/>
+  <!-- Languages Box -->
+  <div style="background-color:#161B22; padding:20px; border-radius:10px; color:#C9D1D9; width:80%;">
+    <h3>🛠 Most Used Languages</h3>
+    <p>
+      Python: <strong>45.2%</strong>
+      <span style="background:#3572A5; padding:3px; border-radius:5px;">▓▓▓▓▓</span>
+    </p>
+    <p>
+      HTML: <strong>31.2%</strong>
+      <span style="background:#E34F26; padding:3px; border-radius:5px;">▓▓▓</span>
+    </p>
+    <p>
+      JavaScript: <strong>17.0%</strong>
+      <span style="background:#F1E05A; padding:3px; border-radius:5px;">▓▓</span>
+    </p>
+    <p>
+      CSS: <strong>6.6%</strong>
+      <span style="background:#563D7C; padding:3px; border-radius:5px;">▓</span>
+    </p>
+  </div>
+
+  <!-- Optional: Activity Graph -->
+  <!-- You can add a custom generated SVG or image here if you want to show a GitHub activity graph. -->
 </div>
+
 
 
 ---
