@@ -30,7 +30,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhafizurrahman&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasanhafizurrahman&theme=github)
+![trophy](https://github-profile-trophy.vercel.app/?username=HasanHafizurRahman&theme=onedark)
 
 ---
 
