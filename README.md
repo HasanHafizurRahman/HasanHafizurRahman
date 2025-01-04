@@ -91,11 +91,11 @@
 <!-- GitHub Stats & Activity Section -->
 <h2 align="center" style="color:#58A6FF;">⚡ GitHub Stats & Activity</h2>
 
-<!-- Container for cards -->
-<div align="center" style="display:flex; justify-content:space-around; align-items:center; flex-wrap:wrap; gap:20px;">
+<!-- Background Image and Gradient Styling (Add your desired image link) -->
+<div align="center" style="background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url('your-background-image-url'); background-size: cover; border-radius: 20px; padding: 20px;">
 
-  <!-- Custom GitHub Stats Card -->
-  <div style="background-color:#161B22; color:#58A6FF; padding:20px; border-radius:10px; width:45%;">
+  <!-- GitHub Stats Card with Custom Styling -->
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); color: #FFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
     <h3>🌟 Hasan Hafizur Rahman's GitHub Stats</h3>
     <p>🚀 Total Stars Earned: <strong>130</strong></p>
     <p>🔥 Total Commits (2025): <strong>202</strong></p>
@@ -104,16 +104,15 @@
     <p>🤝 Contributed to last year: <strong>0</strong></p>
   </div>
 
-  <!-- Custom Most Used Languages Card -->
-  <div style="background-color:#161B22; color:#58A6FF; padding:20px; border-radius:10px; width:45%;">
+  <!-- Most Used Languages with Custom Styling -->
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); color: #FFF; padding: 20px; border-radius: 10px;">
     <h3>🛠 Most Used Languages</h3>
-    <p>TypeScript: <strong>46.58%</strong></p>
-    <p>JavaScript: <strong>38.39%</strong></p>
-    <p>HTML: <strong>10.45%</strong></p>
-    <p>CSS: <strong>8.51%</strong></p>
+    <p>TypeScript: <strong>46.58%</strong> <span style="color:#3178C6;">▓▓▓▓▓▓▓▓▓</span></p>
+    <p>JavaScript: <strong>38.39%</strong> <span style="color:#F0DB4F;">▓▓▓▓▓▓▓</span></p>
+    <p>HTML: <strong>10.45%</strong> <span style="color:#E34F26;">▓▓▓</span></p>
+    <p>CSS: <strong>8.51%</strong> <span style="color:#2965F1;">▓▓</span></p>
   </div>
-  
-  <!-- Add any other widgets or graphics here -->
+
 </div>
 
 
